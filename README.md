@@ -7,4 +7,4 @@ This is a SDL2 project template what using CMake + MinGW.
 - MinGW64
 
 ## How to Run
-Double-click scripts/Build.bat
+Double-click to run scripts/Build.bat
